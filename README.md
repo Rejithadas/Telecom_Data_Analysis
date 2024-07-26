@@ -12,7 +12,7 @@ Wavecon is a prominent telecom provider in India that ventured into the 5G domai
 The objective is to provide a detailed comparison report of KPIs between the periods before and after the 5G launch. The insights derived from this analysis will empower the executive management to make informed decisions aimed at recovering the active user rate and enhancing various key metrics.
 
 ## Data Model 
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/74159390-16a5-4d71-a572-3839ef8c63dc)
+![data model](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/74159390-16a5-4d71-a572-3839ef8c63dc)
 
 ## Key Insights
 ### KPI Overview
