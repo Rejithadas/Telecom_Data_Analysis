@@ -16,7 +16,8 @@ The objective is to provide a detailed comparison report of KPIs between the per
 
 ## Key Insights
 ### KPI Overview
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/331ea69c-a55b-4588-b4d9-b8bb46e1cf83)
+![image]((https://github.com/user-attachments/assets/f00f9c3d-11bb-44c5-9f97-8267d6682b68)
+)
 
 ### Revenue Analysis 
 ![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/3bdb3a8c-6f41-4c65-8560-58cd09af9feb)
