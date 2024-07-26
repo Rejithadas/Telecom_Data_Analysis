@@ -12,30 +12,30 @@ Wavecon is a prominent telecom provider in India that ventured into the 5G domai
 The objective is to provide a detailed comparison report of KPIs between the periods before and after the 5G launch. The insights derived from this analysis will empower the executive management to make informed decisions aimed at recovering the active user rate and enhancing various key metrics.
 
 ## Data Model 
-![data model](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/74159390-16a5-4d71-a572-3839ef8c63dc)
+![data model](https://github.com/user-attachments/assets/7bb34935-fb56-4eb7-8965-4c5ead72799b)
 
 ## Key Insights
 ### KPI Overview
-![image]((https://github.com/user-attachments/assets/f00f9c3d-11bb-44c5-9f97-8267d6682b68)
-)
+![image](https://github.com/user-attachments/assets/d168347b-6ac5-49f3-85ed-7847564ddd73)
 
 ### Revenue Analysis 
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/3bdb3a8c-6f41-4c65-8560-58cd09af9feb)
+![r2](https://github.com/user-attachments/assets/2927c854-8e77-40c2-accf-895ff310a3a5)
 
 ### ARPU Analysis
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/d08f71ac-3fa6-4741-8ae0-767c8c1e2559)
+![arpu](https://github.com/user-attachments/assets/03f2eefb-51e4-4d05-a665-dfd9853e5292)
 
 ### Active User Analysis
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/1cc24c70-57ad-41d2-b7bd-d05d23c542aa)
+![arpu2](https://github.com/user-attachments/assets/abbd8377-c7be-4c71-824d-edecfa6db573)
 
 ### Unsubscribed User analysis
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/afd8129f-4650-45ff-88d3-566c94ef92fb)
+![unsub](https://github.com/user-attachments/assets/399018cc-a835-4505-970b-97a2f9bf17d3)
 
 ### Market Share Analysis 
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/97d282cf-799b-4bf0-ae8d-9af443480289)
+![ms](https://github.com/user-attachments/assets/ddb7a345-c92b-40b0-9e76-3890f6d36df9)
 
 ### Plan Analysis 
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/844d4614-c122-467a-9efc-e30005997521)
+![pla](https://github.com/user-attachments/assets/ad7392ef-c2ab-454d-9847-7cf2bf0f4ea2)
 
-![image](https://github.com/Rejithadas/Telecom-Data-Analysis-/assets/101463488/bf0f2976-47c7-4b29-952d-202b46e5e17e)
+![p2](https://github.com/user-attachments/assets/9fb62475-a10f-4d87-8ec0-6d4fb8926fbf)
+
 
