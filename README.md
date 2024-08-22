@@ -16,7 +16,7 @@ The objective is to provide a detailed comparison report of KPIs between the per
 
 ## Key Insights
 ### KPI Overview
-![image](https://github.com/user-attachments/assets/d168347b-6ac5-49f3-85ed-7847564ddd73)
+![image](https://github.com/user-attachments/assets/37a4511a-c37b-49b8-9733-8ecb3b0a8a7d)
 
 ### Revenue Analysis 
 ![r2](https://github.com/user-attachments/assets/2927c854-8e77-40c2-accf-895ff310a3a5)
