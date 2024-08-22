@@ -12,30 +12,31 @@ Wavecon is a prominent telecom provider in India that ventured into the 5G domai
 The objective is to provide a detailed comparison report of KPIs between the periods before and after the 5G launch. The insights derived from this analysis will empower the executive management to make informed decisions aimed at recovering the active user rate and enhancing various key metrics.
 
 ## Data Model 
-![data model](https://github.com/user-attachments/assets/7bb34935-fb56-4eb7-8965-4c5ead72799b)
+![image](https://github.com/user-attachments/assets/393f27b1-7854-4fe2-b7fa-5b33875b9402)
 
 ## Key Insights
 ### KPI Overview
-![image](https://github.com/user-attachments/assets/37a4511a-c37b-49b8-9733-8ecb3b0a8a7d)
+![image](https://github.com/user-attachments/assets/6ce67fe0-e40c-40fd-af98-059eee6bf026)
 
 ### Revenue Analysis 
-![r2](https://github.com/user-attachments/assets/2927c854-8e77-40c2-accf-895ff310a3a5)
+![image](https://github.com/user-attachments/assets/92d716aa-8665-4120-8fa9-1e7036d5f498)
 
 ### ARPU Analysis
-![arpu](https://github.com/user-attachments/assets/03f2eefb-51e4-4d05-a665-dfd9853e5292)
+![image](https://github.com/user-attachments/assets/0d887736-1b40-4331-b3ac-0f5991226a05)
 
 ### Active User Analysis
-![arpu2](https://github.com/user-attachments/assets/abbd8377-c7be-4c71-824d-edecfa6db573)
+![image](https://github.com/user-attachments/assets/25f9d0a5-d2c1-4a98-b501-4645501188ac)
 
 ### Unsubscribed User analysis
-![unsub](https://github.com/user-attachments/assets/399018cc-a835-4505-970b-97a2f9bf17d3)
+![image](https://github.com/user-attachments/assets/04e6dd56-9c21-4ac2-8a14-18279da7c217)
 
 ### Market Share Analysis 
-![ms](https://github.com/user-attachments/assets/ddb7a345-c92b-40b0-9e76-3890f6d36df9)
+![image](https://github.com/user-attachments/assets/9d3d86fd-474d-4c7d-bde1-647004d21741)
 
 ### Plan Analysis 
-![pla](https://github.com/user-attachments/assets/ad7392ef-c2ab-454d-9847-7cf2bf0f4ea2)
+![image](https://github.com/user-attachments/assets/45095d66-9d33-4697-9a79-c2f27eab9b60)
 
-![p2](https://github.com/user-attachments/assets/9fb62475-a10f-4d87-8ec0-6d4fb8926fbf)
+![image](https://github.com/user-attachments/assets/15c36139-82d7-45c7-9fe0-f12f58abae15)
+
 
 
